@@ -3,6 +3,7 @@
 require 'rest-client'
 require 'rack'
 require 'json'
+require 'ostruct'
 require 'tmpdir'
 require 'erb'
 require 'launchy'
